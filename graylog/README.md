@@ -1,5 +1,5 @@
-# Graylog
-*Log analyzer and SEIM rolled into one*
+# Why Graylog?
+*A log analyzer and an incident response tool rolled into one*
 
 The basic use case for Graylog is ingesting logs from various appliances and processing them into a more understandable format for people. While this functionality is pretty game-changing in and of itself, this would only scratch the surface of what Graylog is capable of. Let's summarize with a mash-up of technobabble and real life applicability.
 
