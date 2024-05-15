@@ -7,25 +7,40 @@ My goal is *not* to provide step-by-step directions on how to stand up a service
 
 This is still very much a new writeup on a project that in still progressing, so please check back to see more progress.
 
-## 1) Log Management
+## 1) Firewall
+<!---
+[OPNSense](firewall/opnsense.md)
+--->Comming soon!
+
+## 2) Log Management
 [Graylog](graylog/graylog.md)
 
-## Endpoint Detection
+## 3) Endpoint Detection
 [Wazuh](wazuh/wazuh.md)
 
-## Localized Threat Database
+## 4) Localized Threat Database
+<!---
 [MISP](misp/misp.md)
+--->Comming soon!
 
-## Response Management
+## 5) Response Management
+<!---
 [IRIS](dfir-iris/dfir-iris.md)
+--->Comming soon!
 
-## Response Automation
+## 6) Response Automation
+<!---
 [n8n](automation/n8n.md)
 [shuffle](automation/shuffle.md)
+--->Comming soon!
 
-## Visualization
+## 7) Visualization
+<!---
 [grafana](grafana/grafana.md)
+--->Comming soon!
 
-## Cohesion
+## 8) Cohesion
+<!---
 [Copilot](copilot/copilot.md)
+--->Comming soon!
 
