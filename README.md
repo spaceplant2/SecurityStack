@@ -11,4 +11,7 @@ My goal is *not* to provide step-by-step directions on how to stand up a service
 ## Endpoint Detection
 [Wazuh](wazuh/README.md)
 
+## Localized Threat Database
+[MISP](misp/README.md)
+
 
