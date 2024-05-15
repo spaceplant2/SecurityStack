@@ -5,6 +5,8 @@ Modern security solutions are better equipped to guard against bad actors than e
 
 My goal is *not* to provide step-by-step directions on how to stand up a service- this has already been done by many who are more qualified than I. Instead, my goal is to provide insights into how these services might be utilized, what they could be harnessed for. Often the basic description provided falls far short of the actual capabilities of the service - I will at every turn possible, alter, enhance, rectify, and even, ameliorate.
 
+This is still very much a new writeup on a project that in still progressing, so please check back to see more progress.
+
 ## Log Management
 [Graylog](graylog/README.md)
 
