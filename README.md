@@ -7,13 +7,25 @@ My goal is *not* to provide step-by-step directions on how to stand up a service
 
 This is still very much a new writeup on a project that in still progressing, so please check back to see more progress.
 
-## Log Management
-[Graylog](graylog/README.md)
+## 1) Log Management
+[Graylog](graylog/graylog.md)
 
 ## Endpoint Detection
-[Wazuh](wazuh/README.md)
+[Wazuh](wazuh/wazuh.md)
 
 ## Localized Threat Database
-[MISP](misp/README.md)
+[MISP](misp/misp.md)
 
+## Response Management
+[IRIS](dfir-iris/dfir-iris.md)
+
+## Response Automation
+[n8n](automation/n8n.md)
+[shuffle](automation/shuffle.md)
+
+## Visualization
+[grafana](grafana/grafana.md)
+
+## Cohesion
+[Copilot](copilot/copilot.md)
 
