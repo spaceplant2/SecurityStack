@@ -1,5 +1,5 @@
 # Deploying a Security Stack
-XDR, SEIM, SOAR, *etc.* ideas and general configurations that *I intend* to be deployable just about anywhere.
+XDR, SIEM, SOAR, *etc.* ideas and general configurations that *I intend* to be deployable just about anywhere.
 
 Modern security solutions are better equipped to guard against bad actors than earlier anti-virus solutions. Also by their basic philosophy they are more accessible to the uninitiated. This repository has been created to cronicle my journey through a set of available technologies in order to assist in not only deploying a helpful and intuitive security stack, but also of making the administration of my infrastructure more manageable.
 
