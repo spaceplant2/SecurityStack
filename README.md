@@ -14,7 +14,9 @@ This is still very much a new writeup on a project that in still progressing, so
 [OPNSense](firewall/opnsense.md)
 
 ## 2) Log Management
+<!---
 [Events](logging/events.md)  
+--->
 [syslog](logging/syslog.md)  
 [Graylog](logging/graylog.md)    
 
