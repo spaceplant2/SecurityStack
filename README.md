@@ -11,7 +11,8 @@ This is still very much a new writeup on a project that in still progressing, so
 [OPNSense](firewall/opnsense.md)
 
 ## 2) Log Management
-[Graylog](graylog/graylog.md)
+[syslog](logging/syslog.md)
+[Graylog](logging/graylog.md)
 
 ## 3) Endpoint Detection
 [Wazuh](wazuh/wazuh.md)
