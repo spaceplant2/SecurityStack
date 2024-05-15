@@ -8,9 +8,7 @@ My goal is *not* to provide step-by-step directions on how to stand up a service
 This is still very much a new writeup on a project that in still progressing, so please check back to see more progress.
 
 ## 1) Firewall
-<!---
 [OPNSense](firewall/opnsense.md)
---->Comming soon!
 
 ## 2) Log Management
 [Graylog](graylog/graylog.md)
