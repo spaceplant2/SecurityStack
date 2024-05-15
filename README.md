@@ -49,3 +49,9 @@ This is still very much a new writeup on a project that in still progressing, so
 [Copilot](copilot/copilot.md)
 --->Comming soon!
 
+# I'd Like to Take a Moment to Thank:
+These are the educators that have been pivotal in me understanding various portions of the technologies that are absolutely essential to this project. Please check them out!
+[Christian Lempa](https://github.com/ChristianLempa)  
+[Techno Tim](https://technotim.live/)  
+[Taylor Walton](https://www.youtube.com/@taylorwalton_socfortress)  
+

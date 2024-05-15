@@ -9,4 +9,8 @@ Syslog is the genericised name for one of a few services that handle log process
 - rsyslog:
   - Expanded choices for log selection and forwarding supporting the old config file format.
 
-For most appliances, syslog-ng and rsyslog will both be adequate. We will mostly want to choose log severity and destination. More advanced configurations can be managed with both rsyslog and syslog-ng including multiple log filters each with separate, and optionally multiple, destinations. However, these complex configurations are generally unnecessary - logs are all being sent to a far more sophisticated log server so why try to reinvent the wheel?
+For most appliances, syslog-ng and rsyslog will both be adequate since tha main need is to choose log severity and destination. More advanced configurations can be managed with both rsyslog and syslog-ng including multiple log filters each with separate, and optionally multiple, destinations. However, these complex configurations are generally unnecessary - logs are all being sent to a far more sophisticated log server so why try to reinvent the wheel?
+
+<!---
+Check out [[these configuration examples|syslog.conf]] for examples of how to get your rsyslog or syslog-ng up and running.
+--->
