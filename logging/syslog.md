@@ -14,3 +14,5 @@ For most appliances, syslog-ng and rsyslog will both be adequate since tha main 
 <!---
 Check out [[these configuration examples|syslog.conf]] for examples of how to get your rsyslog or syslog-ng up and running.
 --->
+
+[Back to Main](../README.md)
