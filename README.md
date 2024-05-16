@@ -10,8 +10,8 @@ This is still very much a new writeup on a project that in still progressing, so
 ## How it all connects:
 ![](flow.drawio.svg)
 
-## 1) Firewall
-[OPNSense](firewall/opnsense.md)
+## 1) Firewall {#firewalls}
+[OPNSense](firewall/opnsense.md)  
 [Some other Friewalls](firewall/other.md)  
 
 ## 2) Log Management
