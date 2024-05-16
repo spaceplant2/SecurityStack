@@ -11,7 +11,8 @@ This is still very much a new writeup on a project that in still progressing, so
 ![](flow.drawio.svg)
 
 ## 1) Firewall
-[OPNSense](firewall/opnsense.md)
+[OPNSense](firewall/opnsense.md)  
+[Some other Firewalls](firewalls/other.md)  
 
 ## 2) Log Management
 [syslog](logging/syslog.md)  
