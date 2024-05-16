@@ -14,11 +14,11 @@ This is still very much a new writeup on a project that in still progressing, so
 [OPNSense](firewall/opnsense.md)
 
 ## 2) Log Management
-<!---
-[Events](logging/events.md)  
---->
 [syslog](logging/syslog.md)  
 [Graylog](logging/graylog.md)    
+<!---
+[Events](logging/events.md)  
+--->More to come...
 
 ## 3) Endpoint Detection
 [Wazuh](wazuh/wazuh.md)
@@ -26,7 +26,7 @@ This is still very much a new writeup on a project that in still progressing, so
 ## 4) Localized Threat Database
 <!---
 [MISP](misp/misp.md)
---->Comming soon!
+--->Not here quite yet!
 
 ## 5) Response Management
 <!---
@@ -50,8 +50,8 @@ This is still very much a new writeup on a project that in still progressing, so
 --->Comming soon!
 
 # I'd Like to Take a Moment to Thank:
-These are the educators that have been pivotal in me understanding various portions of the technologies that are absolutely essential to this project. Please check them out!
+These are the educators that have been pivotal in me understanding various portions of the technologies that are absolutely essential to this project. If you aren't already familiar, you're definitely missing out!
 [Christian Lempa](https://github.com/ChristianLempa)  
 [Techno Tim](https://technotim.live/)  
 [Taylor Walton](https://www.youtube.com/@taylorwalton_socfortress)  
-
+[Jeff Geerling](https://www.jeffgeerling.com/)  
