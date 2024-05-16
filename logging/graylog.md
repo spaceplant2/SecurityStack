@@ -24,4 +24,4 @@ I've elected to deploy self-hosted [Graylog via docker containers](https://go2do
 [Graylog homepage](https://graylog.org/)
 [Graylog at GitHub](https://github.com/Graylog2)
 
-
+[Back to Main](../README.md)

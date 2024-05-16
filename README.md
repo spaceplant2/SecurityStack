@@ -10,9 +10,9 @@ This is still very much a new writeup on a project that in still progressing, so
 ## How it all connects:
 ![](flow.drawio.svg)
 
-## 1) Firewall {#firewalls}
+## 1) Firewall
 [OPNSense](firewall/opnsense.md)  
-[Some other Friewalls](firewall/other.md)  
+[Some other Firewalls](firewall/other.md)  
 
 ## 2) Log Management
 [syslog](logging/syslog.md)  
@@ -45,7 +45,7 @@ This is still very much a new writeup on a project that in still progressing, so
 [grafana](grafana/grafana.md)
 --->Comming soon!
 
-## 8) Cohesion
+## 8) Cohesion 
 <!---
 [Copilot](copilot/copilot.md)
 --->Comming soon!
