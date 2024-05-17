@@ -1,5 +1,5 @@
 # Wazuh
-Endpoint threat detection.
+*Endpoint threat detection*
 
 Knowing what is happening on all the computers in an environment is pretty necessary. Wazuh is a lightweight utility with heavyweight functionality that can also be integrated into the larger stack. I highly recommend enabling OSQuery and adding Yara rules to check for shenanigans. One of the built in functions of Wazuh allows for compliance reports based on different controls. Useful in identifying soft spots in configurations, Wazuh also supplies remedial actions for the issues found. These remedies can be then be built into an automation platform such as [[Orchestration/Ansible]] and applied to the entire environment. The main server's dashboard allow metrics of all sorts to be quickly viewed, and you can drill down through graphs to view events on an individual machine.
 
