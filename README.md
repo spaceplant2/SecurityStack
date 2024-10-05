@@ -47,9 +47,7 @@ This part is where we get more into making the system palateable to our operator
 --->Coming soon!
 
 ## 7) Visualization
-<!---
 [grafana](grafana/grafana.md)
---->Coming soon!
 
 ## 8) Cohesion 
 <!---
