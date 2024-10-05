@@ -3,7 +3,7 @@
 ## References
 [Notes from qnx.com](https://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_utilities/s/syslog.conf.html)  
 
-# syslog configuration format
+# Syslog Configuration Format
 ## References:
 [softpanorama](https://softpanorama.org/Logs/Syslog/syslog_configuration_examples.shtml)  
 The simpleset and most limited format. While I don't recomment the service *per se*, this config
@@ -14,7 +14,7 @@ The simpleset and most limited format. While I don't recomment the service *per 
 *.err;*.emerg;*.crit;auth,authpriv.debug		@loghost
 ```
 
-# syslog-ng format
+# Syslog-NG Format
 
 ## References
 [from syslog-ng.com](https://www.syslog-ng.com/community/b/blog/posts/syslog-ng-101-part-4-configuration-and-testing)
@@ -35,8 +35,10 @@ filter f_default { level(info..emerg) and not (facility(mail)); };
 log { source(s_sys); filter(f_default); destination(d_mesg); };)
 ```
 
-# rsyslog format
-## references
+# Rsyslog format
+
+## References
+
 [rsyslog.com](https://www.rsyslog.com/doc/configuration/examples.html)  
 
 And now with rsyslog, we are back to something manageable. There are also more complex things like templates that can be added but that is beyond the scope of this discussion.
@@ -46,8 +48,10 @@ And now with rsyslog, we are back to something manageable. There are also more c
 *.warn /var/log/message
 ```
 
-# Appliances that need personalized attention
-## references
+# Appliances that Need Personalized Attention
+
+## References
+
 [Configuring Cisco allpiances](https://www.cisco.com/c/en/us/td/docs/switches/metro/me1200/controller/guide/b_nid_controller_book/b_nid_controller_book_chapter_010101.pdf)  
 
 OPNSense and Cisco are the only appliances I have that need anything specific in their 

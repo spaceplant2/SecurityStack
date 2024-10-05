@@ -7,6 +7,10 @@ My goal is *not* to provide step-by-step directions on how to stand up a service
 
 This is still very much a new writeup on a project that in still progressing, so please check back to see more progress.
 
+# The Inner Workings
+
+Our first section is all about the moving parts and how they fit together to do the machine part. This is about data and about bits. This is about endless mind-numbing rows of meaningless numbers and how they get put into their correct cubbies. I will, however, do my best to spare you details and focus on the end results.
+
 ## How it all connects:
 ![](flow.drawio.svg)
 
@@ -18,7 +22,7 @@ This is still very much a new writeup on a project that in still progressing, so
 [syslog](logging/syslog.md)  
 [Graylog](logging/graylog.md)    
 <!---
-[Events](logging/events.md)  
+[Events](logging/windows-events.md)
 --->More to come...
 
 ## 3) Endpoint Detection
@@ -26,6 +30,10 @@ This is still very much a new writeup on a project that in still progressing, so
 
 ## 4) Data Enrichment
 [MISP](misp/misp.md)
+
+# The Human Interaction
+
+This part is where we get more into making the system palateable to our operators. We build graphs and visualizations. We draw maps, pin locations, and make links. We build workflows and create alerts. In short, we make sure that the numbers that have been correlated become items that are understandable and actionable.
 
 ## 5) Response Management
 <!---
