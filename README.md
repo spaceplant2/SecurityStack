@@ -25,9 +25,7 @@ This is still very much a new writeup on a project that in still progressing, so
 [Wazuh](wazuh/wazuh.md)
 
 ## 4) Data Enrichment
-<!---
 [MISP](misp/misp.md)
---->Not here quite yet!
 
 ## 5) Response Management
 <!---
