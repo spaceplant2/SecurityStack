@@ -23,7 +23,7 @@ Our first section is all about the moving parts and how they fit together to do 
 [Graylog](logging/graylog.md)    
 <!---
 [Events](logging/windows-events.md)
---->More to come...
+--->
 
 ## 3) Endpoint Detection
 [Wazuh](wazuh/wazuh.md)
@@ -36,15 +36,11 @@ Our first section is all about the moving parts and how they fit together to do 
 This part is where we get more into making the system palateable to our operators. We build graphs and visualizations. We draw maps, pin locations, and make links. We build workflows and create alerts. In short, we make sure that the numbers that have been correlated become items that are understandable and actionable.
 
 ## 5) Response Management
-<!---
 [IRIS](dfir-iris/dfir-iris.md)
---->Coming soon!
 
 ## 6) Response Automation
-<!---
-[n8n](automation/n8n.md)
-[shuffle](automation/shuffle.md)
---->Coming soon!
+[ansible](automation/ansible.md)
+[n8n](automation/automated_remediations.md)
 
 ## 7) Visualization
 [grafana](grafana/grafana.md)
@@ -55,7 +51,7 @@ This part is where we get more into making the system palateable to our operator
 --->Coming soon!
 
 # I'd Like to Take a Moment to Thank:
-These are the educators that have been pivotal in me understanding various portions of the technologies that are absolutely essential to this project. If you aren't already familiar, you're definitely missing out!
+These are the educators that have been pivotal in me understanding various portions of the technologies that are absolutely essential to this project. If you aren't already familiar with these people, you're definitely missing out! Also a huge thanks to everybody building the amazing services that we use to build out our stacks.
 
 [Christian Lempa](https://github.com/ChristianLempa)  
 [Techno Tim](https://technotim.live/)  
